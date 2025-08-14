@@ -1,34 +1,3 @@
-
-<h3 align="center">self-taught</h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/3b/52/5b/3b525b51ce6d6b91a555a80fcf41597d.jpg" alt="Kirby eating an endless stream of data" width="1500" />
-</p>
-Expand
-message.txt
-5 KB
-Link
-[VALK]
- — 3:49 AM
-<h3 align="center">self-taught</h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Kirby eating an endless stream of data" width="1500" height="350" />
-</p>
-Expand
-message.txt
-6 KB
-﻿
-linkhi
-Link
-9.2p1
-[VALK]
- 
- 
- 
- 
- 
-:partykirby:
 <h3 align="center">self-taught</h3>
 
 <p align="center">
